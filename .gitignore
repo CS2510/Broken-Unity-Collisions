@@ -5,8 +5,8 @@
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
+#/[Bb]uild/ I actually want my WebGL builds pushed
+#/[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
